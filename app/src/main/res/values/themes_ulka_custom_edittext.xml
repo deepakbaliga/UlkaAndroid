@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="Ulka_Custom_Edittext" parent="@style/_Ulka_Custom_Edittext"/>
+
+  <style name="_Ulka_Custom_Edittext" parent="android:Theme.Holo.Light">
+
+    <item name="android:editTextBackground">@drawable/ulka_custom_edittext_edit_text_holo_light</item>
+
+  </style>
+
+</resources>

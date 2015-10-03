@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="prefs-1.1.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/me.alexrs/prefs/1.1.0/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/me.alexrs/prefs/1.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.alexrs/prefs/1.1.0/bda447d67e98bcb0df3c84fa43c1448f55d869db/prefs-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
